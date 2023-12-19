@@ -1,0 +1,148 @@
+35742220693512
+Library
+BEADC2012X105N
+
+
+0
+2
+2
+Library
+CAP_6.3 X 5.8_PAN-M
+
+EEE-FK1H220P 
+0
+2
+2
+Library
+CAP_EEFK_D8_PAN-M
+
+EEE-FK1H470XP 
+0
+2
+2
+Library
+CP_Axial_L18.0mm_D10.0mm_P25.00mm_Horizontal
+CP, Axial series, Axial, Horizontal, pin pitch=25mm, , length*diameter=18*10mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf
+CP Axial series Axial Horizontal pin pitch 25mm  length 18mm diameter 10mm Electrolytic Capacitor
+0
+2
+2
+Library
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Library
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Library
+Converter_DCDC_Murata_MGJ2DxxxxxxSC_THT
+Murata MGJ2DxxxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 2W, SIP package style, https://power.murata.com/data/power/ncl/kdc_mgj2.pdf
+Murata MGJ2DxxxxxxSC
+0
+5
+5
+Library
+D0008B_M
+
+UCC5350MCD 
+0
+8
+8
+Library
+D_SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+Library
+L_Toroid_Vertical_L24.6mm_W15.5mm_P11.44mm_Pulse_KM-4
+L_Toroid, Vertical series, Radial, pin pitch=11.44mm, , length*width=24.64*15.5mm^2, Pulse, KM-4, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf
+L_Toroid Vertical series Radial pin pitch 11.44mm  length 24.64mm width 15.5mm Pulse KM-4
+0
+2
+2
+Library
+P1
+module 1 pin (ou trou mecanique de percage)
+DEV
+0
+4
+1
+Library
+PinHeader_1x2_P3.96mm_Drill1.6mm
+http://www.jst-mfg.com/product/pdf/eng/eVH.pdf
+
+0
+2
+2
+Library
+R_0805_2012Metric
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Library
+R_1206_3216Metric
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Library
+R_1210_3225Metric
+Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Library
+SOD-123_ONS-M
+
+MMSZ3V3T1G 
+0
+2
+2
+Library
+SOD2513X110N
+BAT165E6327HTSA1
+Diode
+0
+2
+2
+Library
+SOT-89_STM
+
+2STF1360 
+0
+3
+3
+Library
+SolderWirePad_single_SMD_5x10mm
+Wire Pad, Square, SMD Pad,  5mm x 10mm,
+MesurementPoint Square SMDPad 5mmx10mm 
+0
+1
+1
+Library
+TO-247-3
+http://www.st.com/content/ccc/resource/technical/document/datasheet/ec/61/1c/fd/4c/fe/48/b5/CD00000914.pdf/files/CD00000914.pdf/jcr:content/translations/en.CD00000914.pdf
+
+0
+3
+3
+Library
+TestPoint_Keystone_5019_Minature
+SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
+Test Point
+0
+1
+1
