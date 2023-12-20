@@ -1,3 +1,15 @@
+## Upcoming Updates
+
+I will be updating this documentation with the latest information and instructions in the near future. 
+
+## Application
+
+This design is specifically tailored for use in power switching applications and is compatible with various types of switches including:
+
+- **IGBT (Insulated Gate Bipolar Transistor)**: Ideal for high-voltage, high-current applications.
+- **MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)**: Suitable for fast switching with lower power loss.
+- **SiCFET (Silicon Carbide Field-Effect Transistor)**: Perfect for high-efficiency, high-frequency operations.
+
 ## References
 
 This design was informed by the following sources:
